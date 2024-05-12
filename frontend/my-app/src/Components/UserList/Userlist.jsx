@@ -130,7 +130,7 @@ function Userlist() {
         toast({
           variant: "destructive",
           title: "Success.",
-          description: "User is created.",
+          description: "User is Deleted.",
         });
         setFlag(!flag);
       })
